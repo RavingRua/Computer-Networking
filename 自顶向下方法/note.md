@@ -2,14 +2,6 @@
 
 ---
 
-## 目录
-
-[TOC]
-
-
-
----
-
 ## 第一章 计算机网络和因特网
 
 **计算机网络（Computer Networking）**是指将[地理](https://baike.baidu.com/item/地理)位置不同的具有独立功能的多台[计算机](https://baike.baidu.com/item/计算机/140338)及其外部设备，通过通信线路连接起来，在[网络操作系统](https://baike.baidu.com/item/网络操作系统/3997)，[网络管理软件](https://baike.baidu.com/item/网络管理软件/6579078)及[网络通信协议](https://baike.baidu.com/item/网络通信协议/4438611)的管理和协调下，实现[资源共享](https://baike.baidu.com/item/资源共享/233480)和信息传递的**计算机系统**。
